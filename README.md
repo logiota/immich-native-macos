@@ -1,3 +1,6 @@
+# A note
+Immich is the last service I need to migrate from my old mac mini to my new linux server. As such, I will likely not be investing any more time into immich native macos. It was an adventure.
+
 # Unofficial Immich Installer
 
 ## WARNING!!!!!
